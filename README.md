@@ -34,6 +34,7 @@ this series is going in. like, actually going in.
 | 12 | `12-frontend-for-backend-devs.md` | React vs Angular, what backend devs actually need to know |
 | 13 | `13-scale-and-production.md` | caching, queuing, load balancing, handling a million users |
 | 14 | `14-python-and-comparisons.md` | Python's actual role, when to use what, wrapping up |
+| 15 | `15-testing.md` | testing philosophy, table-driven tests, integration tests, benchmarks, the race detector |
 
 ---
 
