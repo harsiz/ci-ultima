@@ -74,7 +74,7 @@ plus it has a garbage collector so you won't be debugging segfaults at 2am 😭
 ## let's "go"
 (pfft. get it? since i said "go" and we're gonna be speaking about "golang".. no?.. okay)
 
-file `01` starts with something almost nobody actually explains: what happens when you run code. like physically, what is the computer actually doing. from there we build up.
+[file 01](/guide/01-how-code-runs.md) starts with something almost nobody actually explains: what happens when you run code. like physically, what is the computer actually doing. from there we build up.
 
 see you in there.
 
