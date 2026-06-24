@@ -1,5 +1,5 @@
-# 11 Docker and Kubernetes: Containers and the World They Built 🐳
-### because "it works on my machine" died in 2013
+# 11 Docker and Kubernetes: Containers and the World They Built 🐳!
+### because "it works on my machine" died in 2013..
 
 ---
 
