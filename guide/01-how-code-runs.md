@@ -1,5 +1,5 @@
 # 01 How Code Actually Runs 🔧
-### compilers, interpreters, bytecode, and why this matters more than you think
+### compilers, interpreters, bytecode, and why this matters more than you think!
 
 ---
 
