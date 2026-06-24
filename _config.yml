@@ -1,0 +1,21 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: "your site name"
+description: "whatever ur site is about"
+baseurl: ""
+url: "https://harsiz.github.io"
+
+color_scheme: dark
+
+search_enabled: true
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
