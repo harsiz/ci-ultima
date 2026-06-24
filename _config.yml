@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: "your site name"
-description: "whatever ur site is about"
+title: "ci-ultima"
+description: "ultimate dev thingymajig.md"
 baseurl: "/ci-ultima"
 url: "https://harsiz.github.io"
 
